@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a bioengineer, currently working as a research fellow at Univeristy College London (UCL). Find out more about me and feel free to connect with me here:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewchin92/)](https://www.linkedin.com/in/matthewchin92/)
+[![Linkedin Badge](https://img.shields.io/badge/-matthewchin92-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewchin92/)](https://www.linkedin.com/in/matthewchin92/)
