@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=mattychin&color=blueviolet)
+
 I am a bioengineer, currently working as a research fellow at Univeristy College London (UCL). Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-matthewchin92-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewchin92/)
