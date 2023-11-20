@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a bioengineer, currently working as a research fellow at Univeristy College London (UCL). Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-matthewchin92-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthewchin92/)
-[![Twitter Badge](https://img.shields.io/badge/-MatthewHWChin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.linkedin.com/in/matthewchin92/)
+[![Twitter Badge](https://img.shields.io/badge/-MatthewHWChin-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MatthewHWChin)
 [![Outlook Badge](https://img.shields.io/badge/-ucbtmhw-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:ucbtmhw@ucl.ac.uk)
 
 ## ⚡ Technologies
